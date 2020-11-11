@@ -3,6 +3,7 @@
 ### Main Featured:
     HTML5, CSS3, Javascript
     Sitemap uses
-    Fully-Responsive
+    Speedful Website
+    Fully Responsive
 
- ### [Preview Project]()
+ ### [Preview Project](https://bray-media.netlify.app/)
